@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/PortFolio/static/css/main.685248ac.css",
+    "main.js": "/PortFolio/static/js/main.c04bd514.js",
+    "static/media/NetOne.png": "/PortFolio/static/media/NetOne.efbdb24b20b07eaa3f14.png",
+    "static/media/Mealicious.png": "/PortFolio/static/media/Mealicious.43b4d18ecc059c14da1c.png",
+    "static/media/ShopoHolic.png": "/PortFolio/static/media/ShopoHolic.fcbfedcdee9372d084d4.png",
+    "static/media/mee.png": "/PortFolio/static/media/mee.7860b4bef76930839240.png",
+    "static/media/aboutMe.png": "/PortFolio/static/media/aboutMe.784cb0ea469faff2de45.png",
+    "index.html": "/PortFolio/index.html",
+    "main.685248ac.css.map": "/PortFolio/static/css/main.685248ac.css.map",
+    "main.c04bd514.js.map": "/PortFolio/static/js/main.c04bd514.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.685248ac.css",
+    "static/js/main.c04bd514.js"
+  ]
+}
